@@ -19,7 +19,7 @@ Real-time AI surveillance system using YOLOv8 and CLIP for intelligent activity 
 <h2>Detection Example</h2>
 
 <p align="center">
-  <img src="assets/architecture.png" width="500"/>
+  <img src="assets/detection.png" width="600"/>
 </p>
 
 
@@ -30,7 +30,7 @@ Real-time AI surveillance system using YOLOv8 and CLIP for intelligent activity 
 <h2>System Architecture</h2>
 
 <p align="center">
-  <img src="assets/architecture.png" width="700"/>
+  <img src="assets/architecture.png" width="200"/>
 </p>
 
 ---
