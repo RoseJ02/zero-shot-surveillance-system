@@ -148,6 +148,15 @@ zero-shot-surveillance-system/
 ├── requirements.txt
 └── README.md
 ```
+---
+
+## Results
+
+- Successfully integrated YOLOv8 and CLIP into a real-time surveillance pipeline
+- Implemented zero-shot activity recognition using natural language prompts
+- Built a Streamlit dashboard for live monitoring and automated alert visualization
+- Optimized inference performance using frame skipping and person-only filtering
+
 
 ---
 
